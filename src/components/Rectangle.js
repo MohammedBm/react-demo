@@ -1,6 +1,5 @@
 import React from 'react';
 import Shape from './Shape';
-import ReactDOM from 'react-dom';
 
 function Rectangle (props) {
   const {bgColor = 'Orange'} = props;
